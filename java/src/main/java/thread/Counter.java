@@ -19,7 +19,6 @@ public class Counter {
         public Calculator(int i){
             name = i;
         }
-        @Override
         public void run() {
             try {
                 Thread.sleep(1);
