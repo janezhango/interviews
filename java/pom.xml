@@ -7,6 +7,10 @@
     <groupId>io.github.janezhango</groupId>
     <artifactId>java-interview</artifactId>
     <version>1.0-SNAPSHOT</version>
-
+    <parent>
+        <groupId>io.github.janezhango</groupId>
+        <artifactId>interviews</artifactId>
+        <version>${project.version}</version>
+    </parent>
 
 </project>
