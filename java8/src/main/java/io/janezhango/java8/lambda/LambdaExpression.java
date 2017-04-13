@@ -1,3 +1,5 @@
+package io.janezhango.java8.lambda;
+
 /**
  * Created by xiaojing on 11/7/2016.
  */
