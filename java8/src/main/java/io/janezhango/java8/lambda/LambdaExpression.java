@@ -6,6 +6,8 @@ package io.janezhango.java8.lambda;
 public class LambdaExpression {
     interface IntegerMath {
         int operation(int a, int b);
+        //only one method is allowed
+//        int anotherOpration();
     }
 
     public int operateBinary(int a, int b, IntegerMath op) {
