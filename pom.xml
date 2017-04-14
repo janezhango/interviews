@@ -20,6 +20,8 @@
         <module>annotation-maven-plugin</module>
         <module>annotation-example</module>
         <module>maven-plugin-example</module>
+        <module>algorithm</module>
+        <module>design-pattern</module>
     </modules>
 
     <build>
