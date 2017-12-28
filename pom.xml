@@ -22,6 +22,7 @@
         <module>maven-plugin-example</module>
         <module>algorithm</module>
         <module>design-pattern</module>
+        <module>maven-jetty-plugin</module>
     </modules>
 
     <build>
